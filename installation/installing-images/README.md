@@ -15,6 +15,7 @@ If you're not using Etcher (see below), you'll need to unzip `.zip` downloads to
 **Note**: the Raspbian with PIXEL image contained in the ZIP archive is over 4GB in size and uses the [ZIP64](https://en.wikipedia.org/wiki/Zip_(file_format)#ZIP64) format. To uncompress the archive, a unzip tool that supports ZIP64 is required. The following zip tools support ZIP64:
 
 - [7-Zip](http://www.7-zip.org/) (Windows)
+- [Winzip](http://www.winzip.com/win/bp/) (Windows)
 - [The Unarchiver](http://unarchiver.c3.cx/unarchiver) (Mac)
 - [Unzip](http://www.info-zip.org/mans/unzip.html) (Linux)
 
